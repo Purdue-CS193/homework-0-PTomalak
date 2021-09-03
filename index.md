@@ -1,4 +1,4 @@
-#Patryk's First CS193 Homework
+# Patryk's First CS193 Homework
 
 My favorite things about CS193:
 - so far looks easy
